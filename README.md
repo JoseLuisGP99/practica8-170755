@@ -1,4 +1,4 @@
-#Practica8 170755
+# Practica8 170755
 
 [![Banner-de-Twitch-Nubes-Gamer-Chica-Morado.png](https://i.postimg.cc/15q3LFXF/Banner-de-Twitch-Nubes-Gamer-Chica-Morado.png)](https://postimg.cc/MvzwBvyZ)
 
@@ -22,7 +22,7 @@
 
 |  Característica |  Información |
 | :------------: | :------------: |
-| Nombre  |  Llenado de los posters de las películas en la APP.  |
+| Nombre  |  Remderizacion de poster de peliculas populares.  |
 | Descripción  | La aplicación es enfocado a las peliculas, en ella misma se muestran los poster de las peliculas de estreno en la pantalla. La barra de navegación en la parte de abajo permite acceder rápidamente a las secciones populares y próximas, brindando información relevante y atractiva. Además, cuenta con un práctico cajón lateral que facilita la navegación y proporciona opciones esenciales. Con un diseño oscuro elegante y una interfaz fácil de usar, tu aplicación se enfoca en proporcionar a los amantes del entretenimiento una forma intuitiva de descubrir y seguir sus contenidos favoritos.  |
 |  Fecha de Carga | 21/09/23  |
 
